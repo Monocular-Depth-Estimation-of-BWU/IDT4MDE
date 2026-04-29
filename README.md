@@ -1,7 +1,8 @@
 # IDT4MDE
 Image Dependent Dynamic Prompt Token Enhancement for CLIP-Based Monocular Depth Estimation
-Image‑Dependent Dynamic Prompt Token Enhancement for CLIP‑Based Monocular Depth Estimation
- Dongjie Zhao , Lekai Sun , Shenao Song ,Yue Wu 
+
+Authors: Dongjie Zhao , Lekai Sun , Shenao Song ,Yue Wu 
+
 Abstract
 As a powerful vision‑language pre‑trained model, CLIP (Contrastive Language‑Image Pre‑training) has demonstrated exceptional zero‑shot transferability across a variety of open‑ended tasks. Recently, DepthCLIP reformulated monocular depth estimation (MDE) as an ordinal classification task using language prompts, while Auty et al. further proposed replacing hand‑crafted prompts with learnable textual tokens. However, existing approaches remain constrained by static text representations and fail to fully exploit the dynamic associations between cross‑modal features.
 

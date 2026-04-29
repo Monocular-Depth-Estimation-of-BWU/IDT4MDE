@@ -1,0 +1,13 @@
+*.md
+/runs
+/myParams
+/testfile
+/modules/__pycache__
+/.idea
+Params/nyu-att-d128.yaml
+.gitignore
+Params/joint-bins.yaml
+Params/config_nyu.yaml
+modules/__pycache__/DepthCLIP.cpython-310.pyc
+losses/__pycache__/LossWrapper.cpython-310.pyc
+Params/nyu-4o4d-att.yaml

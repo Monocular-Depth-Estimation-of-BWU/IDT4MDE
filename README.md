@@ -1,4 +1,6 @@
 # IDT4MDE
+The dataset and source code are currently under consolidation and will be publicly released in the near future.
+
 Image Dependent Dynamic Prompt Token Enhancement for CLIP-Based Monocular Depth Estimation
 
 Authors: Dongjie Zhao , Lekai Sun , Shenao Song ,Yue Wu 
